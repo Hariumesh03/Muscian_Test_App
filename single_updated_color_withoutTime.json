@@ -1,1 +1,11 @@
-{"PeditdataID": "yellow", "DeditdataID": "green", "PleapamersID": "green", "DleapamersID": "yellow", "PleapapacID": "yellow", "DleapapacID": "green"}
+{"Pdata1": "yellow", "Ddata1": "green",
+ "Pdata2": "yellow", "Ddata2": "green", 
+ "Pdata3": "green", "Ddata3": "yellow",
+ "Pdata4": "green", "Ddata4": "yellow", 
+ "Pdata6": "yellow", "Ddata6": "green", 
+ "Pdata7": "yellow", "Ddata7": "green", 
+ "Pdata8": "yellow", "Ddata8": "green", 
+ "Pdata9": "yellow", "Ddata9": "green", 
+ "Pdata10": "yellow", "Ddata10": "green", 
+ "Pdata11": "green", "Ddata11": "yellow",
+ "Pdata12": "green", "Ddata12": "yellow"}
